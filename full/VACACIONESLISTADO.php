@@ -41,7 +41,7 @@
 	<div class="navbar navbar-expand-md navbar-dark">
 		<div class="navbar-brand">
 			<a href="index.html" class="d-inline-block">
-				<img src="global_assets/images/logo_light.png" alt="">
+				<img src="../../../../global_assets/images/logo_light.png" alt="">
 			</a>
 		</div>
 
@@ -164,7 +164,7 @@
 							<ul class="media-list">
 								<li class="media">
 									<div class="mr-3">
-										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<a href="#" class="media-title font-weight-semibold">Jordana Ansley</a>
@@ -175,7 +175,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<a href="#" class="media-title font-weight-semibold">Will Brason</a>
@@ -186,7 +186,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<a href="#" class="media-title font-weight-semibold">Hanna Walden</a>
@@ -197,7 +197,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<a href="#" class="media-title font-weight-semibold">Dori Laperriere</a>
@@ -208,7 +208,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<a href="#" class="media-title font-weight-semibold">Vanessa Aurelius</a>
@@ -243,7 +243,7 @@
 							<ul class="media-list">
 								<li class="media">
 									<div class="mr-3 position-relative">
-										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 
 									<div class="media-body">
@@ -260,7 +260,7 @@
 
 								<li class="media">
 									<div class="mr-3 position-relative">
-										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 
 									<div class="media-body">
@@ -277,7 +277,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<div class="media-title">
@@ -293,7 +293,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<div class="media-title">
@@ -309,7 +309,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<div class="media-title">
@@ -333,7 +333,7 @@
 
 				<li class="nav-item dropdown dropdown-user">
 					<a href="#" class="navbar-nav-link d-flex align-items-center dropdown-toggle" data-toggle="dropdown">
-						<img src="global_assets/images/placeholders/placeholder.jpg" class="rounded-circle mr-2" height="34" alt="">
+						<img src="../../../../global_assets/images/placeholders/placeholder.jpg" class="rounded-circle mr-2" height="34" alt="">
 						<span>Victoria</span>
 					</a>
 
@@ -384,7 +384,7 @@
 					<div class="card-body">
 						<div class="media">
 							<div class="mr-3">
-								<a href="#"><img src="global_assets/images/placeholders/placeholder.jpg" width="38" height="38" class="rounded-circle" alt=""></a>
+								<a href="#"><img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="38" height="38" class="rounded-circle" alt=""></a>
 							</div>
 
 							<div class="media-body">
@@ -429,11 +429,11 @@
 
 							<ul class="nav nav-group-sub" data-submenu-title="Layouts">
 								<li class="nav-item"><a href="index.html" class="nav-link active">Default layout</a></li>
-								<li class="nav-item"><a href="layout_2/LTR/default/full/index.html" class="nav-link">Layout 2</a></li>
-								<li class="nav-item"><a href="layout_3/LTR/default/full/index.html" class="nav-link">Layout 3</a></li>
-								<li class="nav-item"><a href="layout_4/LTR/default/full/index.html" class="nav-link">Layout 4</a></li>
-								<li class="nav-item"><a href="layout_5/LTR/default/full/index.html" class="nav-link">Layout 5</a></li>
-								<li class="nav-item"><a href="layout_6/LTR/default/full/index.html" class="nav-link disabled">Layout 6 <span class="badge bg-transparent align-self-center ml-auto">Coming soon</span></a></li>
+								<li class="nav-item"><a href="../../../../layout_2/LTR/default/full/index.html" class="nav-link">Layout 2</a></li>
+								<li class="nav-item"><a href="../../../../layout_3/LTR/default/full/index.html" class="nav-link">Layout 3</a></li>
+								<li class="nav-item"><a href="../../../../layout_4/LTR/default/full/index.html" class="nav-link">Layout 4</a></li>
+								<li class="nav-item"><a href="../../../../layout_5/LTR/default/full/index.html" class="nav-link">Layout 5</a></li>
+								<li class="nav-item"><a href="../../../../layout_6/LTR/default/full/index.html" class="nav-link disabled">Layout 6 <span class="badge bg-transparent align-self-center ml-auto">Coming soon</span></a></li>
 							</ul>
 						</li>
 						<li class="nav-item nav-item-submenu">
@@ -993,7 +993,9 @@
 					-->
 						<!-- /extensions -->
 
+						<!-- Tables -->
 					
+
 							<!--
 							<a href="#" class="nav-link"><i class="icon-table2"></i> <span>Basic tables</span></a>
 							<ul class="nav nav-group-sub" data-submenu-title="Basic tables">
@@ -1005,10 +1007,9 @@
 							</ul>
 
 						-->
+								<!-- Tables -->
 
-									<!-- Tables -->
-
-									<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Pagina Principal</div> <i class="icon-menu" title="Main"></i></li>
+								<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Pagina Principal</div> <i class="icon-menu" title="Main"></i></li>
 						<li class="nav-item">
 							<a href="index.php" class="nav-link active">
 								<i class="icon-home4"></i>
@@ -1079,7 +1080,9 @@
 								
 								<li class="nav-item"><a href="TRANSPORTE2.php" class="nav-link">Editar</a></li>
 
-				
+
+
+
 
 								<!-- puesto por rangel
 								<li class="nav-item"><a href="datatable_sorting.html" class="nav-link">Sorting options</a></li>
@@ -1330,7 +1333,7 @@
 			<div class="page-header page-header-light">
 				<div class="page-header-content header-elements-md-inline">
 					<div class="page-title d-flex">
-						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold"></span>Edicion</h4>
+						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Registro de </span> Vacaciones</h4>
 						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
 					</div>
 <!--
@@ -1392,7 +1395,7 @@
 				<!-- Basic datatable -->
 				<div class="card">
 					<div class="card-header header-elements-inline">
-						<h5 class="card-title">Edicion</h5>
+						<h5 class="card-title">Registro general de vacaciones.</h5>
 						<div class="header-elements">
 							<div class="list-icons">
 		                		<a class="list-icons-item" data-action="collapse"></a>
@@ -1403,22 +1406,21 @@
 					</div>
 
 					<div class="card-body">
-						<code>Edicion</code> de registros.</strong>
+						<code>Regsitros</code> </strong>
 					</div>
 
 					<table class="table datatable-basic">
 						<thead>
-							<tr>
-								<th></th>
-								<th>IDEmpresa</th>
-								<th>Nombre</th>
-								<th>Telefono</th>
-								<th>Correo de contacto</th>
-								<th>Ubicacion</th>
-								<th>Direccion</th>
-								<th>CP</th>
-								<th>Representante</th>
+							<tr class="bg-primary">
 								
+
+								<th>Folio</th>
+								<th>ID Empleado</th>
+								<th>Fecha de registro</th>
+					
+								<th>Fecha de inicio</th>
+								<th>Fecha de Término</th>
+
 									<!--
 								<th class="text-center">Exportar</th>
 							-->
@@ -1426,18 +1428,39 @@
 						</thead>
 						<tbody>
 							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>14</td>
-								<td>Tacos SAn Luis</td>
-								<td><a href="#">Enright</a></td>
-								<td>H</td>
-								<td>Traffic Court Referee</td>
-								<td>22 Jun 1972</td>
-								<td>235@hotmail.com</td>
-								<td>22-22-22</td>
+
+								<td>11</td>
+								<td>2222</td>
+								<td>2/4/19</a></td>
+							
+								<td>8/5/19</td>
+								<td>8/5/19</td>
+
+								<tr>
+
+								<td>11</td>
+								<td>2222</td>
+								<td>2/4/19</a></td>
+							
+								<td>8/5/19</td>
+								<td>8/5/19</td>
+									<tr>
+
+								<td>11</td>
+								<td>2222</td>
+								<td>2/4/19</a></td>
+							
+								<td>8/5/19</td>
+								<td>8/5/19</td>
+									<tr>
+
+								<td>11</td>
+								<td>2222</td>
+								<td>2/4/19</a></td>
+							
+								<td>8/5/19</td>
+								<td>8/5/19</td>
+								
 								<!--
 								<td class="text-center">
 									<div class="list-icons">
@@ -1458,21 +1481,7 @@
 						-->
 
 							
-							</tr>
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>111</td>
-								<td>Sillas Poderosas</td>
-								<td>Nazares</td>
-								<td>H</td>
-								<td>Encargado de Inventarios</td>
-								<td>2 Feb 1988</td>
-								<td>asd@123.com</td>
-								<td>11-11-11</td>
-
+							
 								<!--
 								<td class="text-center">
 									<div class="list-icons">
@@ -1492,21 +1501,8 @@
 							</tr>
 						-->
 
-							</tr>
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>145</td>
-								<td>Muebles Troncozo</td>
-								<td>Salas</td>
-								<td>H</td>
-								<td>Conductor</td>
+							
 								
-								<td>5 Dic 1998</td>
-								<td>wet@gmail.com</td>
-								<th>33-33-33<th>
 
 								<!--
 								<td class="text-center">
@@ -1528,21 +1524,7 @@
 						-->
 
 
-							</tr>
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>457</td>
-								<td>Tacos Don Julio</td>
-								<td>Perez</td>
-								<td>H</td>
-								<td>Conductor</td>
-								
-								<td>6 Mar 1989</td>
-								<td>wsfh@gmail.com</td>
-								<th>55-55-55<th>
+					
 								<!--
 								<td class="text-center">
 									<div class="list-icons">
@@ -1562,22 +1544,7 @@
 							</tr>
 						-->
 
-							</tr>
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-									<td>4577</td>
-								<td>Tortas y cafe internet "Pancho"</td>
-								<td>Castillo</td>
-								<td>H</td>
-								<td>Recepcionista</td>
 								
-								<td>9 Jul 1999</td>
-								<td>drh@gmail.com</td>
-								<th>66-66-66<th>
-
 								<!--
 								<td class="text-center">
 									<div class="list-icons">
@@ -1600,20 +1567,15 @@
 
 							
 							
-							</tr>
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>667</td>
-								<td>Perrera y tqueria "El ojitos"</td>
-								<td>Sulaiman</td>
-								<td>H</td>
-								<td>Encargado de transporte</td>
-								<td>12 Ene 1988</td>
-								<td>wojgh@gmail.com</td>
-								<th>77-77-77<th>
+				
+								
+
+								</tr>
+							
+								
+								
+								
+								
 
 								<!--
 								<td class="text-center">
@@ -1633,22 +1595,6 @@
 								</td>
 							</tr>
 						-->
-
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>778</td>
-								<td>Bar "sinso"</td>
-								<td>Pinozuares</td>
-								<td>H</td>
-								<td>Vendedor de Jìcamas</td>
-								
-								<td>1 Ene 1987</td>
-								<td>soihfb@gmail.com</td>
-								<th>99-99-99<th>
-
 								<!--
 								<td class="text-center">
 									<div class="list-icons">
@@ -1672,105 +1618,11 @@
 					</table>
 				</div>
 
-			  <!-- Horizontal form modal -->
-				<div id="modal_form_horizontal" class="modal fade" tabindex="-1">
-					<div class="modal-dialog modal-lg">
-						<div class="modal-content">
-							<div class="modal-header">
-								<h5 class="modal-title">Editar registro</h5>
-								<button type="button" class="close" data-dismiss="modal">&times;</button>
-							</div>
+				<button type="button" class="btn bg-teal-400 btn-labeled btn-labeled-center" data-toggle="modal" data-target="#modal_form_horizontal">Agregar
 
-							<form action="#" class="form-horizontal">
-								<div class="modal-body">
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">ID Empresa</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Eugene" class="form-control">
-										</div>
-									</div>
 
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Nombre</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Kopyov" class="form-control">
-										</div>
-									</div>
 
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Telefono</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="eugene@kopyov.com" class="form-control">
-											<span class="form-text text-muted">name@domain.com</span>
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Correo de contacto</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="+99-99-9999-9999" data-mask="+99-99-9999-9999" class="form-control">
-											<span class="form-text text-muted">+99-99-9999-9999</span>
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Ubicacion</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Ring street 12, building D, flat #67" class="form-control">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Direccion</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Munich" class="form-control">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">CP</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Bayern" class="form-control">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Rep Legal</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="1031" class="form-control" readonly value="read only">
-										</div>
-									</div>
-								</div>
-
-								<div class="modal-footer">
-									<button type="button" class="btn btn-link" data-dismiss="modal">Cancelar</button>
-									<button type="submit" class="btn bg-primary">Guardar Cambios</button>
-								</div>
-							</form>
-						</div>
-					</div>
-				</div>
-
-				<div id="modal_onhidden" class="modal fade" tabindex="-1">
-					<div class="modal-dialog">
-						<div class="modal-content">
-							<div class="modal-header">
-								<h5 class="modal-title">Confirmar cambios</h5>
-								<button type="button" class="close" data-dismiss="modal">&times;</button>
-							</div>
-
-							<div class="modal-body">
-								El registor sera borrado.
-							</div>
-
-							<div class="modal-footer">
-								<button type="button" class="btn btn-light" data-dismiss="modal">Entendido</button>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- /horizontal form modal -->
-
+								
 
 
 				<!-- /basic datatable -->
@@ -1985,6 +1837,66 @@
 			</div>
 			<!-- /content area -->
 
+			<div id="modal_form_horizontal" class="modal fade" tabindex="-1">
+					<div class="modal-dialog modal-lg">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h5 class="modal-title">Folio</h5>
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
+							</div>
+
+							<form action="#" class="form-horizontal">
+								<div class="modal-body">
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">ID Empleado</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="ID" class="form-control border-primary border-2">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Fecha de registro
+											<span class="form-text text-muted">Dia actual</span></label>
+
+										<div class="col-sm-9">
+											<input type="date" placeholder="EjemploInc" class="form-control border-primary border-2">
+										</div>
+									</div>
+
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Fecha de inicio
+											<span class="form-text text-muted">Inicio</span></label>
+										<div class="col-sm-9">
+											<input type="Date" placeholder="Fecha donde empieza el periodo" class="form-control border-primary border-2">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Fecha de termino
+											<span class="form-text text-muted">No mayor a 2 semanas</span></label>
+										<div class="col-sm-9">
+											<input type="Date" placeholder="Fecha donde el trabajador debe regresar." class="form-control border-primary border-2">
+										</div>
+									</div>
+
+									
+
+
+
+
+								</div>
+
+								<div class="modal-footer">
+									<button type="button" class="btn btn-link" data-dismiss="modal">Cancelar</button>
+									<button type="submit" class="btn bg-primary">Guardar Cambios</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+
+
 
 			<!-- Footer -->
 			<div class="navbar navbar-expand-lg navbar-light">
@@ -1997,7 +1909,7 @@
 
 				<div class="navbar-collapse collapse" id="navbar-footer">
 					<span class="navbar-text">
-						&copy; 2015 - 2018. <a href="#">Limitless Web App Kit</a> by <a href="http://themeforest.net/user/Kopyov" target="_blank">Eugene Kopyov</a>
+						&copy; 2019. <a href="#">Edit</a> by <a href="http://themeforest.net/user/Kopyov" target="_blank">Rangel Turrubiates</a>
 					</span>
 
 					<ul class="navbar-nav ml-lg-auto">

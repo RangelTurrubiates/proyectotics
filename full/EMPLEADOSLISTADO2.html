@@ -993,7 +993,9 @@
 					-->
 						<!-- /extensions -->
 
-					
+						<!-- Tables -->
+						
+
 							<!--
 							<a href="#" class="nav-link"><i class="icon-table2"></i> <span>Basic tables</span></a>
 							<ul class="nav nav-group-sub" data-submenu-title="Basic tables">
@@ -1005,10 +1007,9 @@
 							</ul>
 
 						-->
+								<!-- Tables -->
 
-									<!-- Tables -->
-
-									<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Pagina Principal</div> <i class="icon-menu" title="Main"></i></li>
+								<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Pagina Principal</div> <i class="icon-menu" title="Main"></i></li>
 						<li class="nav-item">
 							<a href="index.php" class="nav-link active">
 								<i class="icon-home4"></i>
@@ -1079,7 +1080,7 @@
 								
 								<li class="nav-item"><a href="TRANSPORTE2.php" class="nav-link">Editar</a></li>
 
-				
+
 
 								<!-- puesto por rangel
 								<li class="nav-item"><a href="datatable_sorting.html" class="nav-link">Sorting options</a></li>
@@ -1330,7 +1331,7 @@
 			<div class="page-header page-header-light">
 				<div class="page-header-content header-elements-md-inline">
 					<div class="page-title d-flex">
-						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold"></span>Edicion</h4>
+						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Listado de </span> - Empleados</h4>
 						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
 					</div>
 <!--
@@ -1392,7 +1393,7 @@
 				<!-- Basic datatable -->
 				<div class="card">
 					<div class="card-header header-elements-inline">
-						<h5 class="card-title">Edicion</h5>
+						<h5 class="card-title">Empleados</h5>
 						<div class="header-elements">
 							<div class="list-icons">
 		                		<a class="list-icons-item" data-action="collapse"></a>
@@ -1403,22 +1404,20 @@
 					</div>
 
 					<div class="card-body">
-						<code>Edicion</code> de registros.</strong>
+						Los<code> Empleados</code> que forman parte del recurso humano.</strong>
 					</div>
 
 					<table class="table datatable-basic">
 						<thead>
 							<tr>
-								<th></th>
-								<th>IDEmpresa</th>
+								<th>Matricula</th>
 								<th>Nombre</th>
-								<th>Telefono</th>
-								<th>Correo de contacto</th>
-								<th>Ubicacion</th>
-								<th>Direccion</th>
-								<th>CP</th>
-								<th>Representante</th>
-								
+								<th>Apellido</th>
+								<th>Sexo</th>
+								<th>Trabajo</th>
+								<th>Nacimiento</th>
+								<th>Correo</th>
+								<th>Tel</th>
 									<!--
 								<th class="text-center">Exportar</th>
 							-->
@@ -1426,12 +1425,8 @@
 						</thead>
 						<tbody>
 							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>14</td>
-								<td>Tacos SAn Luis</td>
+								<td>1111</td>
+								<td>Marth</td>
 								<td><a href="#">Enright</a></td>
 								<td>H</td>
 								<td>Traffic Court Referee</td>
@@ -1460,12 +1455,8 @@
 							
 							</tr>
 							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>111</td>
-								<td>Sillas Poderosas</td>
+								<td>2222</td>
+								<td>Jorge</td>
 								<td>Nazares</td>
 								<td>H</td>
 								<td>Encargado de Inventarios</td>
@@ -1494,12 +1485,8 @@
 
 							</tr>
 							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>145</td>
-								<td>Muebles Troncozo</td>
+								<td>3333</td>
+								<td>Juan</td>
 								<td>Salas</td>
 								<td>H</td>
 								<td>Conductor</td>
@@ -1530,12 +1517,8 @@
 
 							</tr>
 							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>457</td>
-								<td>Tacos Don Julio</td>
+								<td>4444</td>
+								<td>Pedro</td>
 								<td>Perez</td>
 								<td>H</td>
 								<td>Conductor</td>
@@ -1564,12 +1547,8 @@
 
 							</tr>
 							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-									<td>4577</td>
-								<td>Tortas y cafe internet "Pancho"</td>
+								<td>5555</td>
+								<td>Guillermo</td>
 								<td>Castillo</td>
 								<td>H</td>
 								<td>Recepcionista</td>
@@ -1602,12 +1581,8 @@
 							
 							</tr>
 							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>667</td>
-								<td>Perrera y tqueria "El ojitos"</td>
+								<td>6666</td>
+								<td>Marcelino</td>
 								<td>Sulaiman</td>
 								<td>H</td>
 								<td>Encargado de transporte</td>
@@ -1635,12 +1610,8 @@
 						-->
 
 							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>778</td>
-								<td>Bar "sinso"</td>
+								<td>7777</td>
+								<td>Mariano</td>
 								<td>Pinozuares</td>
 								<td>H</td>
 								<td>Vendedor de Jìcamas</td>
@@ -1671,106 +1642,6 @@
 						</tbody>
 					</table>
 				</div>
-
-			  <!-- Horizontal form modal -->
-				<div id="modal_form_horizontal" class="modal fade" tabindex="-1">
-					<div class="modal-dialog modal-lg">
-						<div class="modal-content">
-							<div class="modal-header">
-								<h5 class="modal-title">Editar registro</h5>
-								<button type="button" class="close" data-dismiss="modal">&times;</button>
-							</div>
-
-							<form action="#" class="form-horizontal">
-								<div class="modal-body">
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">ID Empresa</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Eugene" class="form-control">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Nombre</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Kopyov" class="form-control">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Telefono</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="eugene@kopyov.com" class="form-control">
-											<span class="form-text text-muted">name@domain.com</span>
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Correo de contacto</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="+99-99-9999-9999" data-mask="+99-99-9999-9999" class="form-control">
-											<span class="form-text text-muted">+99-99-9999-9999</span>
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Ubicacion</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Ring street 12, building D, flat #67" class="form-control">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Direccion</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Munich" class="form-control">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">CP</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Bayern" class="form-control">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Rep Legal</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="1031" class="form-control" readonly value="read only">
-										</div>
-									</div>
-								</div>
-
-								<div class="modal-footer">
-									<button type="button" class="btn btn-link" data-dismiss="modal">Cancelar</button>
-									<button type="submit" class="btn bg-primary">Guardar Cambios</button>
-								</div>
-							</form>
-						</div>
-					</div>
-				</div>
-
-				<div id="modal_onhidden" class="modal fade" tabindex="-1">
-					<div class="modal-dialog">
-						<div class="modal-content">
-							<div class="modal-header">
-								<h5 class="modal-title">Confirmar cambios</h5>
-								<button type="button" class="close" data-dismiss="modal">&times;</button>
-							</div>
-
-							<div class="modal-body">
-								El registor sera borrado.
-							</div>
-
-							<div class="modal-footer">
-								<button type="button" class="btn btn-light" data-dismiss="modal">Entendido</button>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- /horizontal form modal -->
-
 
 
 				<!-- /basic datatable -->

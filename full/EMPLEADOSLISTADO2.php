@@ -1009,7 +1009,7 @@
 						-->
 								<!-- Tables -->
 
-								<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Pagina Principal</div> <i class="icon-menu" title="Main"></i></li>
+							<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Pagina Principal</div> <i class="icon-menu" title="Main"></i></li>
 						<li class="nav-item">
 							<a href="index.php" class="nav-link active">
 								<i class="icon-home4"></i>
@@ -1021,12 +1021,26 @@
 								</span>
 							</a>
 						</li>
-				<li class="nav-item nav-item-submenu nav-item-expanded nav-item-open">
+						<li class="nav-item nav-item-submenu nav-item-expanded nav-item-open">
 							<a href="#" class="nav-link"><i class="icon-grid7"></i> <span>Empleados</span></a>
 							<ul class="nav nav-group-sub" data-submenu-title="Data tables">
 								<li class="nav-item"><a href="EMPLEADOSLISTADO2.php" class="nav-link active">Listado</a></li>
 								<li class="nav-item"><a href="EMPLEADOSREGISTRAR2.php ?>" class="nav-link">Registrar</a></li>
 								<li class="nav-item"><a href="EMPLEADOSEDITAR2.php" class="nav-link">Editar</a></li>
+
+						<li class="nav-item nav-item-submenu nav-item-expanded nav-item-open">
+							<a href="#" class="nav-link"><i class="icon-grid7"></i> <span>Tutorias</span></a>
+							<ul class="nav nav-group-sub" data-submenu-title="Data tables">
+								
+								
+								<li class="nav-item"><a href="TUTORIASEDITAR.php" class="nav-link">Editar</a></li>
+
+						<li class="nav-item nav-item-submenu nav-item-expanded nav-item-open">
+							<a href="#" class="nav-link"><i class="icon-grid7"></i> <span>Alumnos</span></a>
+							<ul class="nav nav-group-sub" data-submenu-title="Data tables">
+								
+								
+								<li class="nav-item"><a href="ALUMNOS.php" class="nav-link">Editar</a></li>
 
 							<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Vacaciones</div> <i class="icon-menu" title="Tables"></i></li>
 						<li class="nav-item nav-item-submenu">
@@ -1035,9 +1049,9 @@
 						<li class="nav-item  nav-item-expanded nav-item-open">
 							<a href="#" class="nav-link"><i class="icon-grid7"></i> <span>Vacaciones</span></a>
 							<ul class="nav nav-group-sub" data-submenu-title="Data tables">
-								<li class="nav-item"><a href="VACACIONESLISTADO2.php" class="nav-link active">Listado</a></li>
+								<li class="nav-item"><a href="VACACIONESLISTADO.php" class="nav-link active">Listado</a></li>
 
-								<li class="nav-item"><a href="VACACIONESEDITAR2.php" class="nav-link">Editar</a></li>
+								<li class="nav-item"><a href="VACACIONESEDITAR.php" class="nav-link">Editar</a></li>
 
 						<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Departamentos</div> <i class="icon-menu" title="Tables"></i></li>
 						<li class="nav-item nav-item-submenu">
@@ -1065,6 +1079,8 @@
 								
 								
 								<li class="nav-item"><a href="TRANSPORTE2.php" class="nav-link">Editar</a></li>
+
+
 
 
 								<!-- puesto por rangel

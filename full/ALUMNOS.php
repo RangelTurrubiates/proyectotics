@@ -1079,7 +1079,6 @@
 								
 								<li class="nav-item"><a href="TRANSPORTE2.php" class="nav-link">Editar</a></li>
 
-				
 
 								<!-- puesto por rangel
 								<li class="nav-item"><a href="datatable_sorting.html" class="nav-link">Sorting options</a></li>
@@ -1330,7 +1329,7 @@
 			<div class="page-header page-header-light">
 				<div class="page-header-content header-elements-md-inline">
 					<div class="page-title d-flex">
-						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold"></span>Edicion</h4>
+						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold"></span>Listado de alumnos</h4>
 						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
 					</div>
 <!--
@@ -1403,21 +1402,20 @@
 					</div>
 
 					<div class="card-body">
-						<code>Edicion</code> de registros.</strong>
+						<code>vista</code> de alumnos</strong>
 					</div>
 
 					<table class="table datatable-basic">
 						<thead>
 							<tr>
 								<th></th>
-								<th>IDEmpresa</th>
+								<th>Matricula</th>
 								<th>Nombre</th>
-								<th>Telefono</th>
-								<th>Correo de contacto</th>
-								<th>Ubicacion</th>
-								<th>Direccion</th>
-								<th>CP</th>
-								<th>Representante</th>
+								<th>Apellidos</th>
+								<th>Carrera</th>
+								<th>Correo</th>
+								
+								
 								
 									<!--
 								<th class="text-center">Exportar</th>
@@ -1428,16 +1426,29 @@
 							<tr>
 								<div class="col-md-3 col-sm-4">
 								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
+								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modaleditar">
 								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>14</td>
-								<td>Tacos SAn Luis</td>
-								<td><a href="#">Enright</a></td>
-								<td>H</td>
-								<td>Traffic Court Referee</td>
-								<td>22 Jun 1972</td>
-								<td>235@hotmail.com</td>
-								<td>22-22-22</td>
+							
+								<td>100</td>
+								<td>Armando</td>
+								<td>Torres</td>
+								<td>ITI</td>
+								<td>100@upv.edu.mx</td>
+
+								<tr>
+								<div class="col-md-3 col-sm-4">
+								<div class="d-flex align-items-right">
+								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modaleditar">
+								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
+							
+								<td>99</td>
+								<td>Jose</td>
+								<td>Jose</td>
+								<td>Sistemas Automotrices</td>
+								<td>99@upv.edu.mx</td>
+
+								
+								
 								<!--
 								<td class="text-center">
 									<div class="list-icons">
@@ -1462,16 +1473,70 @@
 							<tr>
 								<div class="col-md-3 col-sm-4">
 								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
+								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modaleditar">
 								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>111</td>
-								<td>Sillas Poderosas</td>
-								<td>Nazares</td>
-								<td>H</td>
-								<td>Encargado de Inventarios</td>
-								<td>2 Feb 1988</td>
-								<td>asd@123.com</td>
-								<td>11-11-11</td>
+								<td>101</td>
+								<td>Miguelito</td>
+								<td>Juarez</td>
+								<td>TecMan</td>
+								<td>101@upv.edu.mx</td>
+
+							</tr>
+							<tr>
+								<div class="col-md-3 col-sm-4">
+								<div class="d-flex align-items-right">
+								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modaleditar">
+								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
+								<td>103</td>
+								<td>Joonathan</td>
+								<td>Joestar</td>
+								<td>Construccion</td>
+								<td>102@upv.edu.mx</td>
+
+								</tr>
+							<tr>
+								<div class="col-md-3 col-sm-4">
+								<div class="d-flex align-items-right">
+								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modaleditar">
+								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
+								<td>104</td>
+								<td>Cesar</td>
+								<td>Zepelli</td>
+								<td>Pymes</td>
+								<td>104@upv.edu.mx</td>
+
+								</tr>
+							<tr>
+								<div class="col-md-3 col-sm-4">
+								<div class="d-flex align-items-right">
+								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modaleditar">
+								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
+								<td>105</td>
+								<td>Pepe</td>
+								<td>Pecas</td>
+								<td>Mecatronica</td>
+								<td>105@upv.edu.mx</td>
+
+								</tr>
+							<tr>
+								<div class="col-md-3 col-sm-4">
+								<div class="d-flex align-items-right">
+								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modaleditar">
+								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
+								<td>106</td>
+								<td>Sutano</td>
+								<td>Antonio</td>
+								<td>Sistemas Automotrices</td>
+								<td>106@upv.edu.mx</td>
+								
+
+								
+
+								
+
+								
+
+
 
 								<!--
 								<td class="text-center">
@@ -1492,21 +1557,7 @@
 							</tr>
 						-->
 
-							</tr>
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>145</td>
-								<td>Muebles Troncozo</td>
-								<td>Salas</td>
-								<td>H</td>
-								<td>Conductor</td>
-								
-								<td>5 Dic 1998</td>
-								<td>wet@gmail.com</td>
-								<th>33-33-33<th>
+							
 
 								<!--
 								<td class="text-center">
@@ -1528,21 +1579,7 @@
 						-->
 
 
-							</tr>
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>457</td>
-								<td>Tacos Don Julio</td>
-								<td>Perez</td>
-								<td>H</td>
-								<td>Conductor</td>
-								
-								<td>6 Mar 1989</td>
-								<td>wsfh@gmail.com</td>
-								<th>55-55-55<th>
+							
 								<!--
 								<td class="text-center">
 									<div class="list-icons">
@@ -1562,21 +1599,7 @@
 							</tr>
 						-->
 
-							</tr>
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-									<td>4577</td>
-								<td>Tortas y cafe internet "Pancho"</td>
-								<td>Castillo</td>
-								<td>H</td>
-								<td>Recepcionista</td>
-								
-								<td>9 Jul 1999</td>
-								<td>drh@gmail.com</td>
-								<th>66-66-66<th>
+						
 
 								<!--
 								<td class="text-center">
@@ -1600,20 +1623,7 @@
 
 							
 							
-							</tr>
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>667</td>
-								<td>Perrera y tqueria "El ojitos"</td>
-								<td>Sulaiman</td>
-								<td>H</td>
-								<td>Encargado de transporte</td>
-								<td>12 Ene 1988</td>
-								<td>wojgh@gmail.com</td>
-								<th>77-77-77<th>
+						
 
 								<!--
 								<td class="text-center">
@@ -1634,20 +1644,7 @@
 							</tr>
 						-->
 
-							<tr>
-								<div class="col-md-3 col-sm-4">
-								<div class="d-flex align-items-right">
-								<td><button type="button" class="icon-pencil5" data-toggle="modal" data-target="#modal_form_horizontal">
-								<button type="button" class="icon-bin" data-toggle="modal" data-target="#modal_onhidden"></td>
-								<td>778</td>
-								<td>Bar "sinso"</td>
-								<td>Pinozuares</td>
-								<td>H</td>
-								<td>Vendedor de Jìcamas</td>
-								
-								<td>1 Ene 1987</td>
-								<td>soihfb@gmail.com</td>
-								<th>99-99-99<th>
+							
 
 								<!--
 								<td class="text-center">
@@ -1668,12 +1665,99 @@
 							</tr>
 						-->
 													</tr>
+
+
 						</tbody>
 					</table>
+
+
+
+								
+					<div id="modalagregar" class="modal fade" tabindex="-1">
+					<div class="modal-dialog modal-lg">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h5 class="modal-title">Folio</h5>
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
+							</div>
+
+							<form action="#" class="form-horizontal">
+								<div class="modal-body">
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Matricula</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="ID" class="form-control border-primary border-2">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Nombre
+											<span class="form-text text-muted">Nombre</span></label>
+
+										<div class="col-sm-9">
+											<input type="text"  class="form-control border-primary border-2">
+										</div>
+									</div>
+
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Apellidos</label>
+										<div class="col-sm-9">
+											<input type="text" class="form-control border-primary border-2">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Carrera</label>
+
+										<div class="col-sm-9">
+											<select class="custom-select">
+			                                <option value="opt1">Seleccionar Carrera</option>
+			                                <option value="opt2">TecMan</option>
+			                                <option value="opt3">ITI</option>
+			                                <option value="opt4">PyMES</option>
+			                                <option value="opt5">Mecatronica</option>
+			                                <option value="opt6">Sistemas Automotrices</option>
+			                                <option value="opt7">Construccion</option>
+			                            </select>
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Correo
+											</label>
+										<div class="col-sm-9">
+											<input type="text"  class="form-control border-primary border-2">
+										</div>
+									</div>
+
+									
+
+									
+
+
+
+
+								</div>
+
+								<div class="modal-footer">
+									<button type="button" class="btn btn-link" data-dismiss="modal">Cancelar</button>
+									<button type="submit" class="btn bg-primary">Guardar Cambios</button>
+								</div>
+							</form>
+						</div>
+					</div>
 				</div>
 
+
+
+					<button type="button" class="btn bg-teal-400 btn-labeled btn-labeled-center" data-toggle="modal" data-target="#modalagregar">Agregar
+				</div>
+
+
+
 			  <!-- Horizontal form modal -->
-				<div id="modal_form_horizontal" class="modal fade" tabindex="-1">
+				<div id="modaleditar" class="modal fade" tabindex="-1">
 					<div class="modal-dialog modal-lg">
 						<div class="modal-content">
 							<div class="modal-header">
@@ -1684,63 +1768,44 @@
 							<form action="#" class="form-horizontal">
 								<div class="modal-body">
 									<div class="form-group row">
-										<label class="col-form-label col-sm-3">ID Empresa</label>
+										<label class="col-form-label col-sm-3">Matricula</label>
 										<div class="col-sm-9">
-											<input type="text" placeholder="Eugene" class="form-control">
+											<input type="text" placeholder="111" class="form-control">
 										</div>
 									</div>
 
 									<div class="form-group row">
 										<label class="col-form-label col-sm-3">Nombre</label>
 										<div class="col-sm-9">
-											<input type="text" placeholder="Kopyov" class="form-control">
+											<input type="text" placeholder="1930001"  class="form-control">
 										</div>
 									</div>
 
 									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Telefono</label>
+										<label class="col-form-label col-sm-3">Apellidos</label>
 										<div class="col-sm-9">
-											<input type="text" placeholder="eugene@kopyov.com" class="form-control">
-											<span class="form-text text-muted">name@domain.com</span>
+											<input type="text" placeholder="Mangano" class="form-control">
+											
 										</div>
 									</div>
 
 									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Correo de contacto</label>
+										<label class="col-form-label col-sm-3">Carrera</label>
 										<div class="col-sm-9">
-											<input type="text" placeholder="+99-99-9999-9999" data-mask="+99-99-9999-9999" class="form-control">
-											<span class="form-text text-muted">+99-99-9999-9999</span>
+											<input type="text" placeholder="ITI"  data-mask="+99-99-9999-9999" class="form-control">
+											
 										</div>
 									</div>
 
 									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Ubicacion</label>
+										<label class="col-form-label col-sm-3">Correo</label>
 										<div class="col-sm-9">
-											<input type="text" placeholder="Ring street 12, building D, flat #67" class="form-control">
+											<input type="date"  placeholder="15/10/19" class="form-control">
 										</div>
 									</div>
 
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Direccion</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Munich" class="form-control">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">CP</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="Bayern" class="form-control">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-form-label col-sm-3">Rep Legal</label>
-										<div class="col-sm-9">
-											<input type="text" placeholder="1031" class="form-control" readonly value="read only">
-										</div>
-									</div>
-								</div>
+									
+									
 
 								<div class="modal-footer">
 									<button type="button" class="btn btn-link" data-dismiss="modal">Cancelar</button>
